@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.11.21)  26 NOV 2024 10:13
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.11.21)  28 NOV 2024 09:47
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -108,9 +108,13 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 {c:/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{c:/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}]) (./section/classes/mage.tex) (./section/classes/talking_animal.tex) (./section/classes/crafted.tex)) (./chapter/gear.tex) (./chapter/adventure.tex
 
-[2]) (./chapter/foes.tex) (./chapter/magic.tex)
+[2]
 
-[3{c:/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}] (./main.aux)
+[3{c:/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]) (./chapter/foes.tex) (./chapter/magic.tex)
+
+[4]
+
+[5] (./main.aux)
  ***********
 LaTeX2e <2024-11-01>
 L3 programming layer <2024-11-02>
@@ -119,16 +123,16 @@ L3 programming layer <2024-11-02>
 Here is how much of TeX's memory you used:
  1706 strings out of 473361
  27276 string characters out of 5725029
- 414474 words of memory out of 5000000
+ 415474 words of memory out of 5000000
  24784 multiletter control sequences out of 15000+600000
  566530 words of font info for 53 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 57i,6n,65p,393b,199s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 57i,6n,65p,450b,199s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb>
-Output written on main.pdf (3 pages, 114679 bytes).
+Output written on main.pdf (5 pages, 120044 bytes).
 PDF statistics:
- 49 PDF objects out of 1000 (max. 8388607)
- 30 compressed objects within 1 object stream
+ 55 PDF objects out of 1000 (max. 8388607)
+ 34 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
