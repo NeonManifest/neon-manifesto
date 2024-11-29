@@ -17,4 +17,4 @@
 \contentsline {subsection}{\numberline {5.3}Skill Descriptions}{3}{}%
 \contentsline {section}{\numberline {6}Foes}{4}{}%
 \contentsline {section}{\numberline {7}Magic}{4}{}%
-\contentsline {section}{\numberline {8}Gaming References (in alphabetical order)}{4}{}%
+\contentsline {section}{\numberline {A}Gaming references in alphabetical order}{4}{}%
