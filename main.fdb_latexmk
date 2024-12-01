@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1732877783.56212 "c:/Users/Pichau/Documents/jam/neon-manifesto/main.tex" "main.pdf" "main" 1732877786.20399 0
+["pdflatex"] 1733065154.48411 "c:/Users/Pichau/Documents/jam/neon-manifesto/main.tex" "main.pdf" "main" 1733065155.756 0
   "c:/Users/Pichau/Documents/jam/neon-manifesto/main.tex" 1732877780 1034 c6e8d3465f41598c311be174d7eeda00 ""
   "c:/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1732161874 2971 def0b6c1f0b107b3b936def894055589 ""
   "c:/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1732161874 2900 1537cc8184ad1792082cd229ecc269f4 ""
@@ -45,16 +45,16 @@
   "c:/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1732168181 5521760 8d14e9f23704d5fbe9a015e30cb48126 ""
   "c:/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1732168576 3342731 52b4377ef5d4bacd976d24bfd3f7b2c6 ""
   "c:/texlive/2024/texmf.cnf" 1732168139 713 e69b156964470283e0530f5060668171 ""
-  "chapter/adventure.tex" 1732847179 3717 3db8f6a17bc76966f46c92736ced02e1 ""
+  "chapter/adventure.tex" 1733065139 7146 81a38c3daef8ff88cb353b7965a753bc ""
   "chapter/characters.tex" 1732467778 30 4c0f4fb3e82d73b0250375dde05169ba ""
   "chapter/classes.tex" 1732468888 227 e8d2a3fd315e04e6aba1b773774c5d4b ""
   "chapter/foes.tex" 1732499828 14 01e3ca513f04613774477bb7920cf031 ""
   "chapter/gear.tex" 1732467777 26 1232b3d879e8fec71a72fe12c5103009 ""
   "chapter/intro.tex" 1732467567 134 b2b99ec8f58e7ee084e3faead883b605 ""
-  "chapter/magic.tex" 1732468030 15 36d482884cd5c69f8962be59c85e3a67 ""
-  "main.aux" 1732877784 2165 6038ca7f72265e227a0980aa03d41ba5 "pdflatex"
+  "chapter/magic.tex" 1732975512 34 d58c03a525ed8fe0dd36b7fa1f4b61a4 ""
+  "main.aux" 1733065155 2466 81b1d073fe3e8e08b1bdf192466b3347 "pdflatex"
   "main.tex" 1732877780 1034 c6e8d3465f41598c311be174d7eeda00 ""
-  "main.toc" 1732877785 1313 4a49b2fceae8b28688b04870851808ec "pdflatex"
+  "main.toc" 1733065155 1488 e767eda1d7eecdd99b399cdf08fab92f "pdflatex"
   "section/classes/chump.tex" 1732468814 18 f02eea670b43c327f7d2c80bbc2cf7d1 ""
   "section/classes/crafted.tex" 1732468776 21 431dab70d73c3bec969c0a7b660ab7b1 ""
   "section/classes/fighter.tex" 1732196890 47 60f6a5bf87e871afcb05ce2aaa7049e6 ""
