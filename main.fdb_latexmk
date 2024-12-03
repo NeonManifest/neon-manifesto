@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1733107849.23597 "c:/Users/Pichau/Documents/jam/neon-manifesto/main.tex" "main.pdf" "main" 1733107850.36948 0
+["pdflatex"] 1733230582.60822 "c:/Users/Pichau/Documents/jam/neon-manifesto/main.tex" "main.pdf" "main" 1733230583.75659 0
   "c:/Users/Pichau/Documents/jam/neon-manifesto/main.tex" 1733107807 1198 cf30a218f2a3c63478087acca044ede4 ""
   "c:/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1732161874 2971 def0b6c1f0b107b3b936def894055589 ""
   "c:/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1732161874 2900 1537cc8184ad1792082cd229ecc269f4 ""
@@ -47,16 +47,16 @@
   "c:/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1732168181 5521760 8d14e9f23704d5fbe9a015e30cb48126 ""
   "c:/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1732168576 3342731 52b4377ef5d4bacd976d24bfd3f7b2c6 ""
   "c:/texlive/2024/texmf.cnf" 1732168139 713 e69b156964470283e0530f5060668171 ""
-  "chapter/adventure.tex" 1733107846 9505 3b572d08fa84b38e67265fda6d1dc577 ""
+  "chapter/adventure.tex" 1733230580 9792 a5af60f18ff738114474ae14ebf53f81 ""
   "chapter/characters.tex" 1732467778 30 4c0f4fb3e82d73b0250375dde05169ba ""
   "chapter/classes.tex" 1732468888 227 e8d2a3fd315e04e6aba1b773774c5d4b ""
   "chapter/foes.tex" 1732499828 14 01e3ca513f04613774477bb7920cf031 ""
   "chapter/gear.tex" 1732467777 26 1232b3d879e8fec71a72fe12c5103009 ""
   "chapter/intro.tex" 1732467567 134 b2b99ec8f58e7ee084e3faead883b605 ""
   "chapter/magic.tex" 1732975512 34 d58c03a525ed8fe0dd36b7fa1f4b61a4 ""
-  "main.aux" 1733107850 2456 41b907ff1c2ecb072b0e60ab2e9df422 "pdflatex"
+  "main.aux" 1733230583 2456 213f6c29cfa75765cbfc97cdb77bbe6d "pdflatex"
   "main.tex" 1733107807 1198 cf30a218f2a3c63478087acca044ede4 ""
-  "main.toc" 1733107850 1478 a60909df0631c58b9486d3ede254d1ff "pdflatex"
+  "main.toc" 1733230583 1478 dc18af62c1069c1ed532dfa11bb73832 "pdflatex"
   "section/classes/chump.tex" 1732468814 18 f02eea670b43c327f7d2c80bbc2cf7d1 ""
   "section/classes/crafted.tex" 1732468776 21 431dab70d73c3bec969c0a7b660ab7b1 ""
   "section/classes/fighter.tex" 1732196890 47 60f6a5bf87e871afcb05ce2aaa7049e6 ""
