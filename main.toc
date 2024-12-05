@@ -1,22 +1,26 @@
-\contentsline {section}{\numberline {1}What is Neon Manifesto?}{1}{}%
-\contentsline {subsection}{\numberline {1.1}Who is NeonManifest}{2}{}%
-\contentsline {subsection}{\numberline {1.2}How to play Neon Manifesto}{2}{}%
-\contentsline {subsection}{\numberline {1.3}Example of Play}{2}{}%
-\contentsline {section}{\numberline {2}Creating a Character}{2}{}%
-\contentsline {section}{\numberline {3}Character Classes}{2}{}%
-\contentsline {subsection}{\numberline {3.1}Chump}{2}{}%
-\contentsline {subsection}{\numberline {3.2}Fighter}{2}{}%
-\contentsline {subsection}{\numberline {3.3}Knave}{2}{}%
-\contentsline {subsection}{\numberline {3.4}Mage}{2}{}%
-\contentsline {subsection}{\numberline {3.5}Talking animal}{2}{}%
-\contentsline {subsection}{\numberline {3.6}Imagined}{2}{}%
-\contentsline {section}{\numberline {4}Adventuring Gear}{2}{}%
-\contentsline {section}{\numberline {5}Rules and Procedures of Adventure}{2}{}%
-\contentsline {subsection}{\numberline {5.1}Standard Roll Procedure}{2}{}%
-\contentsline {subsection}{\numberline {5.2}Attack Rolls}{3}{}%
-\contentsline {subsection}{\numberline {5.3}Wilderness Exploration Procedure}{3}{}%
-\contentsline {subsection}{\numberline {5.4}Dungeon Exploration Procedure}{4}{}%
-\contentsline {subsection}{\numberline {5.5}Skill Descriptions}{5}{}%
-\contentsline {section}{\numberline {6}Foes}{6}{}%
-\contentsline {section}{\numberline {7}Magic}{6}{}%
-\contentsline {section}{\numberline {A}Gaming references in alphabetical order}{6}{}%
+\contentsline {section}{\numberline {1}What is Neon Manifesto?}{2}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Who is NeonManifest}{2}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}How to play Neon Manifesto}{2}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}Example of Play}{2}{subsection.1.3}%
+\contentsline {section}{\numberline {2}Creating a Character}{2}{section.2}%
+\contentsline {section}{\numberline {3}Character Classes}{2}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Chump}{2}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Fighter}{2}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Knave}{2}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}Mage}{2}{subsection.3.4}%
+\contentsline {subsection}{\numberline {3.5}Talking animal}{2}{subsection.3.5}%
+\contentsline {subsection}{\numberline {3.6}Imagined}{2}{subsection.3.6}%
+\contentsline {section}{\numberline {4}Adventuring Gear}{2}{section.4}%
+\contentsline {section}{\numberline {5}Rules and Procedures of Adventure}{2}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Standard Roll Procedure}{2}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Wilderness Exploration Procedure}{3}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}Dungeon Exploration Procedure}{4}{subsection.5.3}%
+\contentsline {subsection}{\numberline {5.4}Combat Procedure}{4}{subsection.5.4}%
+\contentsline {subsubsection}{\numberline {5.4.1}Attack Rolls}{4}{subsubsection.5.4.1}%
+\contentsline {subsection}{\numberline {5.5}When things get FREAKY}{5}{subsection.5.5}%
+\contentsline {subsubsection}{\numberline {5.5.1}One-roll fights}{5}{subsubsection.5.5.1}%
+\contentsline {subsection}{\numberline {5.6}Skill Descriptions}{5}{subsection.5.6}%
+\contentsline {subsection}{\numberline {5.7}Ending a Session}{7}{subsection.5.7}%
+\contentsline {section}{\numberline {6}Foes}{7}{section.6}%
+\contentsline {section}{\numberline {7}Magic}{7}{section.7}%
+\contentsline {section}{\numberline {A}Gaming references in alphabetical order}{7}{appendix.A}%
