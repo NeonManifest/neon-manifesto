@@ -65,12 +65,12 @@ Attack rolls are a special kind of roll where the action being described consist
 \begin{enumerate}
     \item {The PLAYER initates saying something like ``I attack'' or ``My character attacks'' or by describing an action that qualifies as an attack. The attack's target must be in condition of defending themselves and fighting, otherwise the roll is not an attack;}
     \item {The CONDUCTOR asks the PLAYER whether they have any skills that could help in their chosen attack method;}
-    \item {The roll's difficulty is set by the FOE being attacked;}
+    \item {The roll's difficulty is set by the FOE being attacked's HIT VALUE;}
     \item {The player rolls a 1d6 + Xd6 where X is the relevant skill's value, attempting to roll over the FOE's difficulty;}
     \item {After seeing the roll's result, the PLAYER may supplement its result using BENNIES, each BENNY spent grants a +1 to the roll of one die;}
     \item {The CONDUCTOR describes the outcome of the roll using the following guidelines:}
     \begin{itemize}
-        \item {\textbf{Each die equal to or above the FOE's difficulty} causes 1 hit;}
+        \item {\textbf{Each die equal to or above the FOE's HIT VALUE} causes 1 hit;}
         \item {\textbf{Each die resulting in 6 or above explodes!} Causing 1 hit and adding another d6 to the roll;}
         \item {\textbf{If no d6 causes a hit, the FOE will immediately return with an attack of its own}.}
     \end{itemize}
@@ -87,6 +87,19 @@ Foe attacks work just like player attacks.
 \end{itemize}
 
 \subsubsection{One-roll fights}
+\begin{enumerate}
+    \item {Each side rolls a d6, adding:}
+    \begin{itemize}
+        \item {+1 for each combatant with 4 or more HIT VALUE;}
+        \item {+1 if the side outnumbers the other; +2 if the side outnumber the other 2-to-1, +3 if the side outnumber the other, etc;}
+        \item {+1 for each magic user who casts a combat-relevant spell (such as a fireball) during the fight;}
+        \item {+1 for each of the following advantages each side has. Such as cover, high ground, formation that can't be flanked, surprise, superior firepower, poison, traps, etc.}
+    \end{itemize}
+    \item {The side that rolls highest wins. Ties are rolled again.}
+    \item {Each PLAYER character on the winning side rolls a d6, if they roll over their HIT VALUE, they take a number of hits equal to the number rolled;}
+    \item {Each PLAYER character on the losing side rolls a d6, if they roll over their HIT VALUE, they are slain or captured;}
+    \item {Each CONDUCTOR character on the losing side is slain, captured, or driven off.}
+\end{enumerate}
 
 \subsection{Skill Descriptions}
 \begin{multicols}{2}
