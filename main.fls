@@ -127,14 +127,14 @@ INPUT ./main.toc
 INPUT ./main.toc
 INPUT main.toc
 INPUT c:/texlive/2024/texmf-dist/fonts/tfm/jknappen/ec/ecbx1000.tfm
+INPUT c:/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map
+INPUT c:/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc
 OUTPUT main.toc
 INPUT ./chapter/intro.tex
 INPUT ./chapter/intro.tex
 INPUT ./chapter/intro.tex
 INPUT ./chapter/intro.tex
 INPUT chapter/intro.tex
-INPUT c:/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map
-INPUT c:/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc
 INPUT ./section/what/who.tex
 INPUT ./section/what/who.tex
 INPUT ./section/what/who.tex
