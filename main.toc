@@ -11,24 +11,24 @@
 \contentsline {subsection}{\numberline {3.5}Mage}{8}{subsection.3.5}%
 \contentsline {subsection}{\numberline {3.6}Talking animal}{10}{subsection.3.6}%
 \contentsline {subsection}{\numberline {3.7}Imagined}{11}{subsection.3.7}%
-\contentsline {section}{\numberline {4}Adventuring Gear}{12}{section.4}%
-\contentsline {subsection}{\numberline {4.1}Basic Gear}{12}{subsection.4.1}%
-\contentsline {subsection}{\numberline {4.2}Advanced Gear}{12}{subsection.4.2}%
-\contentsline {subsection}{\numberline {4.3}Magic Gear}{12}{subsection.4.3}%
-\contentsline {section}{\numberline {5}Rules and Procedures of Adventure}{12}{section.5}%
-\contentsline {subsection}{\numberline {5.1}Standard Roll Procedure}{12}{subsection.5.1}%
-\contentsline {subsection}{\numberline {5.2}Wilderness Exploration Procedure}{13}{subsection.5.2}%
-\contentsline {subsection}{\numberline {5.3}Dungeon Exploration Procedure}{14}{subsection.5.3}%
-\contentsline {subsection}{\numberline {5.4}Haven Procedure}{14}{subsection.5.4}%
-\contentsline {subsection}{\numberline {5.5}Projects}{14}{subsection.5.5}%
-\contentsline {subsection}{\numberline {5.6}Demesne Procedure}{15}{subsection.5.6}%
-\contentsline {subsubsection}{\numberline {5.6.1}Factions}{15}{subsubsection.5.6.1}%
-\contentsline {subsection}{\numberline {5.7}Combat Procedure}{15}{subsection.5.7}%
-\contentsline {subsubsection}{\numberline {5.7.1}Attack Rolls}{16}{subsubsection.5.7.1}%
-\contentsline {subsection}{\numberline {5.8}When things get FREAKY}{16}{subsection.5.8}%
-\contentsline {subsubsection}{\numberline {5.8.1}One-roll fights}{17}{subsubsection.5.8.1}%
-\contentsline {subsection}{\numberline {5.9}Skill Descriptions}{17}{subsection.5.9}%
-\contentsline {subsection}{\numberline {5.10}Ending a Session}{18}{subsection.5.10}%
-\contentsline {section}{\numberline {6}Foes}{19}{section.6}%
-\contentsline {section}{\numberline {7}Magic}{19}{section.7}%
-\contentsline {section}{\numberline {A}Gaming references in alphabetical order}{19}{appendix.A}%
+\contentsline {section}{\numberline {4}Rules and Procedures of Adventure}{12}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Standard Roll Procedure}{12}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Wilderness Exploration Procedure}{12}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Dungeon Exploration Procedure}{13}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}Haven Procedure}{14}{subsection.4.4}%
+\contentsline {subsection}{\numberline {4.5}Projects}{14}{subsection.4.5}%
+\contentsline {subsection}{\numberline {4.6}Demesne Procedure}{14}{subsection.4.6}%
+\contentsline {subsubsection}{\numberline {4.6.1}Factions}{15}{subsubsection.4.6.1}%
+\contentsline {subsection}{\numberline {4.7}Combat Procedure}{15}{subsection.4.7}%
+\contentsline {subsubsection}{\numberline {4.7.1}Attack Rolls}{15}{subsubsection.4.7.1}%
+\contentsline {subsection}{\numberline {4.8}When things get FREAKY}{16}{subsection.4.8}%
+\contentsline {subsubsection}{\numberline {4.8.1}One-roll fights}{16}{subsubsection.4.8.1}%
+\contentsline {subsection}{\numberline {4.9}Skill Descriptions}{17}{subsection.4.9}%
+\contentsline {subsection}{\numberline {4.10}Ending a Session}{18}{subsection.4.10}%
+\contentsline {section}{\numberline {5}Adventuring Gear}{19}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Basic Gear}{19}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Advanced Gear}{19}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}Magic Gear}{19}{subsection.5.3}%
+\contentsline {section}{\numberline {6}Magic}{20}{section.6}%
+\contentsline {section}{\numberline {7}Foes}{20}{section.7}%
+\contentsline {section}{\numberline {A}Gaming references in alphabetical order}{20}{appendix.A}%
