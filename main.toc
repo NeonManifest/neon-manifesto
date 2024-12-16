@@ -35,10 +35,11 @@
 \contentsline {subsection}{\numberline {6.2}Learning a Spell}{21}{subsection.6.2}%
 \contentsline {subsection}{\numberline {6.3}Casting a Spell}{21}{subsection.6.3}%
 \contentsline {subsection}{\numberline {6.4}Attacking with a Spell}{22}{subsection.6.4}%
-\contentsline {subsection}{\numberline {6.5}Spells by Discipline}{22}{subsection.6.5}%
-\contentsline {subsection}{\numberline {6.6}Spells in Alphabetical Order}{22}{subsection.6.6}%
-\contentsline {subsection}{\numberline {6.7}Calamities}{24}{subsection.6.7}%
-\contentsline {section}{\numberline {7}Foes}{24}{section.7}%
-\contentsline {section}{\numberline {A}Conditions}{24}{appendix.A}%
-\contentsline {section}{\numberline {B}Gaming references in alphabetical order}{24}{appendix.B}%
-\contentsline {section}{\numberline {C}Literary fiction and fantasy references in alphabetical order}{24}{appendix.C}%
+\contentsline {subsection}{\numberline {6.5}Continuous Spells}{22}{subsection.6.5}%
+\contentsline {subsection}{\numberline {6.6}Spells by Discipline}{22}{subsection.6.6}%
+\contentsline {subsection}{\numberline {6.7}Spells in Alphabetical Order}{22}{subsection.6.7}%
+\contentsline {subsection}{\numberline {6.8}Calamities}{25}{subsection.6.8}%
+\contentsline {section}{\numberline {7}Foes}{25}{section.7}%
+\contentsline {section}{\numberline {A}Conditions}{25}{appendix.A}%
+\contentsline {section}{\numberline {B}Gaming references in alphabetical order}{25}{appendix.B}%
+\contentsline {section}{\numberline {C}Literary fiction and fantasy references in alphabetical order}{26}{appendix.C}%

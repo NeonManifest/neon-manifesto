@@ -27,23 +27,24 @@ When characters learn an innate spell, unless they are a Mage, cannot learn spel
 \subsection{Casting a Spell}
 In order to cast a spell, make a Casting roll, that is a standard d12 using the Spell skill:
 \begin{itemize}
-    \item {If the Spell roll comes up with a Natural 1 (by rolling 1 on the die), the spell fizzles, you lose it for the day, and a calamity happens;}
-    \item {If the Spell roll fails (by rolling 7 or below), the spell fizzles and you lose it for the day;}
-    \item {If the Spell roll succeeds with a degree of I (by rolling 8 to 12), it's I effect is activated, you may choose to lose it for the day or incur 1 WRATH;}
-    \item {If the Spell roll succeeds with a degree of II (by rolling 13 to 17), you may activate its I or II effect, you may choose to lose it for the day or incur 2 WRATH;}
-    \item {If the Spell roll succeeds with a degree of III (by rolling 18 or more), you may activate its I, II or III effect, you may choose to lose it for the day or incur 4 WRATH;;}
+    \item If the Spell roll comes up with a Natural 1 (by rolling 1 on the die), the spell fizzles, you lose it for the day, and a calamity happens.
+    \item If the Spell roll fails (by rolling 8 or below), the spell fizzles and you lose it for the day.
+    \item If the Spell roll succeeds (by rolling 9 or above), its effect is activated, you may choose to lose it for the day or incur 1 WRATH.
 \end{itemize}
-Casting spells may accumulate WRATH, which will make everything worse when a calamity happens to the caster. Unlike with standard and attack rolls, you can use BENNIES to subtract what you would add to the roll.
+
+Casting spells may accumulate WRATH, which will make everything worse when a calamity happens to the caster.
 
 \subsection{Attacking with a Spell}
-A creative PLAYER will find that every spell listed in Neon Manifesto can be conceivably used as an attack method. To attack with a spell, make an attack roll using the Spell skill simultaneously as the standard roll using the Spell skill. The attack is determined as normal but the spell roll will give the attack additional consequences:
+A creative PLAYER will find that every spell listed in Neon Manifesto can be conceivably used as an attack method. To attack with a spell, make an attack roll using the Spell skill simultaneously as the standard roll using the Spell skill. Spell attacks affect one foe within sight. The attack is determined as normal but the spell roll will give the attack additional consequences:
 \begin{itemize}
-    \item {If the Casting roll fails, lose the highest-valued half of the dice before any explosions (round up);}
-    \item {If the Casting roll succeeds with a degree of I (by rolling 8 to 12), the attack proceeds as normal;}
-    \item {If the Casting roll succeeds with a degree of II (by rolling 13 to 17), add a d6 to the attack;}
-    \item {If the Casting roll succeeds with a degree of III (by rolling 18 or more), add two d6 to the attack;}
+    \item If the Casting roll fails, lose the highest-valued half of the dice before any explosions (round up).
+    \item If the Casting roll succeeds (by rolling 9 or above), the attack proceeds as normal.
 \end{itemize}
+
 The Bolt and Blast spells are special cases in which they are spells best suited for attacking, thus have special rules.
+
+\subsection{Continuous Spells}
+Any spell with effect beyond the round which it was cast is a continuous spell. In order to maintain a continuous spell, the caster must maintain an anchor on it. Meaning, a character cannot have more than one continuous spell active at a time.
 
 \subsection{Spells by Discipline}
 \label{sec:spell-list}
@@ -63,7 +64,7 @@ The Bolt and Blast spells are special cases in which they are spells best suited
     \item {X-Ray Vision}
     \item {Scrying}
     \item {Olfactory Trace}
-    \item {Cartomancy}
+    \item {Augury}
     \item {Oneiromancy}
 \end{enumerate}
 \subsubsection*{2 - Wizardry}
@@ -72,7 +73,7 @@ The Bolt and Blast spells are special cases in which they are spells best suited
     \item {Magic Circle}
     \item {Summoning}
     \item {Telepathy}
-    \item {Ward}
+    \item {Metamagic}
     \item {Astral Projection}
     \item {Telekinesis}
 \end{enumerate}
@@ -83,7 +84,7 @@ The Bolt and Blast spells are special cases in which they are spells best suited
     \item {Necromancy}
     \item {Command}
     \item {Sealing}
-    \item {Miracle}
+    \item {Wish}
 \end{enumerate}
 \subsubsection*{3 - Illusion }
 \begin{enumerate}
@@ -107,42 +108,109 @@ The Bolt and Blast spells are special cases in which they are spells best suited
 \subsection{Spells in Alphabetical Order}
 \begin{multicols}{3}
 \subsubsection*{Alchemy}
+You can change the viscosity, stickiness, reflectiveness, refractiveness, acidity, basicity, electrical conductibility, magnetism, color, temperature, density, hardness, flexibility, porosity, transparency, and resonance frequency of a touched object. You can also alter its state of matter (solid, liquid, gas). This spell is continuous even if not maintained.
 \subsubsection*{Antimagic}
+Undo the effects of a spell you can see. Some spells have the ability to defend themselves.
 \subsubsection*{Astral Projection}
+The caster can leave their body behind and fly around as a ghost, which cannot interact with the world but can see, hear and speak.
+\subsubsection*{Augury}
+Ask the CONDUCTOR a yes or no question regarding a character or object you know. You cannot ask whether a character harmed or took from another.
 \subsubsection*{Blast}
+Launches a blast of magic at the opposition. When attacking with this spell, you can split the Attack roll dice to attack multiple foes. Additionally, when attacking with this spell, add +1d6 to the attack.
 \subsubsection*{Bolt}
-\subsubsection*{Cartomancy}
+Launches a bolt or ray of magic. When attacking with this spell, add +2d6 to the attack.
 \subsubsection*{Command}
+You command a character that will immediately follow the command as long as it's not perceived as self-destructive. The command is usually one word and affects a single creature, but you may incur WRATH to:
+\begin{itemize}
+    \item {Add an additional word to the command;}
+    \item {Affect an additional character with the command;}
+\end{itemize}
+There is no limit to how much WRATH you can incur with a single casting of this spell.
 \subsubsection*{Darkness}
+Creates a cloud of absolute darkness that fills an entire room, preventing combat from occuring at all.
 \subsubsection*{Emotion}
+The caster can choose how a touched creature feels. If you cause fear using this spell, incur 1 WRATH. You cannot cause a character to love or hate.
 \subsubsection*{Enchantment}
+Target object or character will be subjected to the effect of another spell if a condition defined by the caster becomes true. This other spell must be known by the caster.
 \subsubsection*{Gate}
+Create a portal on two surfaces you can see, characters going in a portal go out of the other.
 \subsubsection*{Gravity}
+Changes how gravity affects a creature or an object. You can make something super heavy or floaty, as well as change the direction of gravity by making another object be what the character falls towards.
 \subsubsection*{Invisibility}
+A touched character becomes invisible until they cause harm to another creature.
 \subsubsection*{Magic Circle}
+The caster chooses if the circle prevents entry or exit, and what is permitted to enter or exit it. The circle can be any size but must be drawn beforehand.
 \subsubsection*{Masquerade}
+This spells allows the caster to disguise themselves and their allies as characters the caster has touched on the same day.
+\subsubsection*{Metamagic}
+This spell allows the caster to bind a continuous spell to a location (like a room). The spell cannot affect anything outside the location, but the caster doesn't need to maintain the affecting spell. Maintaining this spell does not count towards the caster's number of maintained spells, but one of their BENNIEs will not recover as long as this spell is active.
 \subsubsection*{Mirage}
+Produces a visual illusion (like a hologram) with movement but not sound. It's dispersed if interacted with.
 \subsubsection*{Mirror Image}
-\subsubsection*{Miracle}
+Produces three mirror duplicates of the caster, which are hit before the caster if the caster is attacked.
 \subsubsection*{Necromancy}
+This spells allows the caster to entreat the souls of the dead to their bidding. This spell has two uses:
+\begin{itemize}
+    \item {You can ask a corpse three questions;}
+    \item {Incur 2 WRATH to create an undead of your design from a corpse. You can give it a single command and it will follow. The CONDUCTOR defines its stats. The undead turns to dust after fulfilling the command.}
+\end{itemize}
+Undead created by this spell become foes if the spell is not maintained, they are not undone, but will stop following the command.
 \subsubsection*{Olfactory Trace}
+Reconstructs the source of a scent and events regarding it as an illusory image.
 \subsubsection*{Oneiromancy}
+This spells allows the caster to access and control dreams of one character they can see.
 \subsubsection*{Phantasm}
+Creates an illusion inside the perception of a character, that interacts with it (and can be harmed by it) as if it was real.
 \subsubsection*{Polymorph}
+Touched creature becomes an animal of the caster's choice.
 \subsubsection*{Portent}
+Roll a 2d6 and 2d12. Keep those dice as long as the spell is maintained, you can spend each die to replace another in a roll.
 \subsubsection*{Scrying}
+This spells allows the caster to see through the eyes of someone they have touched on the same day.
 \subsubsection*{Sealing}
+Can make a lock, door or container magically sealed, not to be opened unless by Antimagic. If the caster dies while maintaining this spell, the seal persists.
 \subsubsection*{Shape Earth}
+Creates tunnels and barricades out of earth.
 \subsubsection*{Shape Water}
+Can lower or raise the depth of a water body, freeze and unfreeze water.
 \subsubsection*{Shield}
+Name a noun, the shield will prevent harm coming from this noun from affecting a touched character or object twice, then the spell ends.
 \subsubsection*{Sound}
+Produces an auditory illusion.
 \subsubsection*{Summoning}
+Summons a spirit animal to fulfill a command, after which it disappears. It will only fight if given a BENNY.
 \subsubsection*{Sword}
+A sword of pure magic materializes around a touched creature. The sword helps the creature with fighting, adding 1d6 to their attack rolls.
 \subsubsection*{Telekinesis}
+You can lift, pull or push an object you can see.
 \subsubsection*{Telepathy}
-\subsubsection*{Ward}
+You can talk with any character you have touched on the day. They can block this communication. Communication depends on language.
 \subsubsection*{Web}
+Creates very sticky webbing that prevents movement, characters can free by making a standard roll with the Strength skill (difficulty 9).
+\subsubsection*{Wish}
+Attempting to cast this spell incurs WRATH equal to the casting roll. If successful, makes any wish come true until midnight. A wish that prevents midnight from coming will not work and cause a calamity.
 \subsubsection*{X-Ray Vision}
+The caster can see through solid objects.
 \end{multicols}
 
 \subsection{Calamities}
+If the Spell roll comes up with a Natural 1 (by rolling 1 on the die), the spell fizzles, you lose it for the day, and a calamity happens. When a calamity happens, the caster that caused it's WRATH becomes zero. Roll on the following table to determine the nature of the calamity that ensues:
+
+\begin{adjustbox}{width=\textwidth, keepaspectratio, center}
+    \begin{tabular}{|c|p{0.8\textwidth}|}
+    \hline
+    \textbf{2d12 + WRATH} & \textbf{Calamity} \\ \hline
+    2 & The spell fizzles. Nothing happens. \\ \hline
+    3-5 & The caster is turned into an animal of the CONDUCTOR's choice for the day \\ \hline
+    6-7 & One of the pieces of gear the caster is carrying becomes cursed. The curse prevents the item from leaving the caster's possession and gains a negative effect in the following session \\ \hline
+    8-9 & The caster cannot cast the spell for a week. \\ \hline
+    10-11 & The spell's effect will happen at some point. The CONDUCTOR decides when. \\ \hline
+    12 & The spell backfires! The CONDUCTOR descibes how it goes. \\ \hline
+    13-14 & The caster's BENNIES leave you and become a hostile Benny Golem (hit value and hits equal to your BENNIES when this happened) \\ \hline
+    15-16 & The caster loses the ability to cast the spell. Forever. \\ \hline
+    17-18 & A CONDUCTOR character the caster likes falls ill, to die in a week unless a cure is administered. If they like nobody they themselves fall ill. \\ \hline
+    19-20 & The caster or their closest ally take an attack using the caster's spell skill \\ \hline
+    21-23 & The caster's gear loses its magic \\ \hline
+    24+ & The caster loses everything and must start over as a Chump. \\ \hline
+    \end{tabular}
+\end{adjustbox}
